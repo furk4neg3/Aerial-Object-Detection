@@ -12,5 +12,5 @@
 -> Then I used transfer learning. Fast RCNN model was one of the best choices for this challenge, so I chose it. Tried to fine tune it too, but hardware didn't allow it.
 
 
-# Note:
+## Note:
 There are some issues in the notebook (mainly visualization, like it has to count from 1 to 10 but counts 0 to 9). These will be fixed soon, check again in 1-2 days for fully completed version. Planning to add some examples of how models make predictions on example images too.
