@@ -1,4 +1,4 @@
-# Information of Project
+# Information About the Project
 -> This project is focused on aerial object detection. Dataset is SkyFusion that contains satelite images. Task is to draw border box around objects and classify them. 
 
 -> Because the photos were taken from a distance, objects look small, so that makes it a hard challenge.
